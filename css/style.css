@@ -1,0 +1,52 @@
+h1{
+    color: red;
+    background-color: green;
+}
+#Heading-4{
+    color: black;
+    background-color: blue;
+}
+.test{
+    color: black;
+    background-color: blue;
+}
+#headingFive{
+    text-transform: uppercase;
+}
+.uncommon{
+    text-transform: uppercase;
+}
+
+
+
+h2{
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 30px -7px 10px black;
+    font-family: sans-serif;
+}
+
+h3{
+    color: orchid;
+    background-color: black;
+    font-size: 80px;
+}
+p{
+    width: 95vw;
+    height: 120px;
+    background-color: olive;
+    text-align: justify;
+    text-align-last: center;
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-indent: 30px;
+    letter-spacing: 5px;
+    word-spacing: 30px;
+    line-height: 1.5;
+}
+
+a{
+    text-decoration: line-through;
+    color: red;
+}
+
